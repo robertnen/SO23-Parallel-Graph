@@ -1,4 +1,4 @@
-# I have only implemeted osmem.c
+# Disclaimer
 
 I don't own any of the other files or directories (e.g. tests directory or the grade.sh file).
 
